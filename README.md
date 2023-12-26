@@ -31,4 +31,4 @@ myList.prepend(5);
 console.log(myList.toString()); // Outputs: ( 5 ) -> ( 10 ) -> null
 
 
-This project is for educational purposes and is a part of [The Odin Project curriculum](https://www.theodinproject.com/lessons/javascript-linked-lists).
+This project is for educational purposes and is a part of the Odin Project curriculum.
