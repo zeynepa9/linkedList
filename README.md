@@ -30,6 +30,6 @@ myList.append(10);
 myList.prepend(5);
 console.log(myList.toString()); // Outputs: ( 5 ) -> ( 10 ) -> null
 
-## Credits 
+
 
 This project is for educational purposes and is a part of the Odin Project curriculum.
